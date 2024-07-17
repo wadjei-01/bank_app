@@ -1,16 +1,31 @@
-# template_app
+# Bank App
+A mobile banking application with a design inspired by a Dribbble concept.
 
-A new Flutter project.
+# Design Inspiration
+The design for this app was taken from [Dribbble](https://dribbble.com/shots/19212630-Fins-Finance-Mobile-App).
 
-## Getting Started
+# Features
+  **Account Management:** View and manage bank accounts.
 
-This project is a starting point for a Flutter application.
+  **Transaction History:** Track transaction history and details.
 
-A few resources to get you started if this is your first Flutter project:
+  **Transfer Funds:** Facilitate money transfers between accounts.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  **Budgeting Tools:** Tools for managing and planning budgets.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Technologies Used
+  **Flutter:** For building the mobile application.
+
+  **Chopper:** For handling HTTP requests.
+
+  **Riverpod:** For state management.
+
+  **Freezed:** For generating immutable data classes.
+
+  **GoRouter:** For routing and navigation.
+
+  **Shared Preferences:** For local storage.
+
+# Demo
+https://github.com/user-attachments/assets/281d940e-d28f-4c2a-878d-c1c31de5ba9c
+
